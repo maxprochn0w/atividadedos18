@@ -1,0 +1,59 @@
+body {
+    width: 95%;
+    height: auto;
+    background-color: blue;
+}
+
+#retangulo1 {
+    width: 100%; 
+    height: 200px; 
+    background-color: yellow; 
+    margin-left: 90%;
+    margin-right: 75px;
+    margin-top: 20px;
+    margin:20px;
+  }
+#quadrado1 {
+    width: 15%; 
+    height: 200px; 
+    background-color: yellow; 
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin:20px;
+
+}
+#quadrado2 {
+    background-color: yellow; 
+    width: 15%;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 350;   
+}
+
+#retangulodireita {
+    background-color: yellow; 
+    width: 20%;
+    height: 550px;
+    margin-top: 25px;
+    margin-left: 503;   
+}
+
+#ultimoretangulo {
+    background-color: yellow;
+    width: 70%;
+    height: 20%;
+    margin-left: 15px;
+    display: flex;
+    margin-top: -200px;
+}
+
+
+.section2{
+    display: flex;
+    justify-content: left;
+}  
+.section1{
+    display: flex;
+    justify-content: left;
+} 
