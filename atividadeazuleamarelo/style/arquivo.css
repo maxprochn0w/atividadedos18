@@ -47,8 +47,6 @@ body {
     display: flex;
     margin-top: -200px;
 }
-
-
 .section2{
     display: flex;
     justify-content: left;
@@ -57,3 +55,31 @@ body {
     display: flex;
     justify-content: left;
 } 
+//////////////////////////////////////////
+#body2{
+    background-color: blue;
+}
+
+.bet {
+    background-color: yellow;
+}
+
+.bet1 {
+    background-color: yellow;
+}
+
+.bet2 {
+    background-color: yellow;
+}
+
+.bet3 {
+    background-color: yellow;
+}
+
+.bet4 {
+    background-color: yellow;
+}
+
+.bet5 {
+    background-color: yellow;
+}
