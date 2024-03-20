@@ -104,3 +104,51 @@ body {
     display: flex;
   }
 
+  .flex{
+    display: flex;
+  }
+  
+  .amarelo{
+    background-color:yellow;
+    padding: 50;
+    margin: 20;
+  }
+  .red{
+    background-color:yellow;
+    padding-bottom: 200;
+  }
+  .purple{
+    background-color:yellow;
+    padding-right: 200;
+  }
+
+
+  .flex1{
+    display: flex;
+  }
+  
+  .amareloG{
+    background-color:yellow;
+    padding: 50;
+    margin: 20;
+    
+  }
+  .red1{
+    background-color:yellow;
+    padding-bottom: 200;
+  } 
+  .amareloF{
+    background-color:yellow;
+    padding: 50;
+    margin: 20;
+    width: 1;
+  }
+  
+  #reta1{
+    background-color:yellow;
+    height: 400px;
+    width: 100px;
+    position: absolute;
+  }
+
+  
