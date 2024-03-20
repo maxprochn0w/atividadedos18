@@ -1,6 +1,4 @@
 body {
-    width: 95%;
-    height: auto;
     background-color: blue;
 }
 
@@ -55,31 +53,54 @@ body {
     display: flex;
     justify-content: left;
 } 
-//////////////////////////////////////////
-#body2{
-    background-color: blue;
-}
+#quadrado {
+    background-color: yellow; 
+    padding: 100px;
+    margin-left: 25%;
+  }
+  #quadradoX {
+    background-color: yellow; 
+    padding: 100px;
+    margin-left: 10%;
+  }
 
-.bet {
-    background-color: yellow;
-}
+  #quadradoY {
+    background-color: yellow; 
+    padding: 100px;
+    margin-left: 10%;
+    
+  }
+ .sectionX {
+    display: flex;
+  }
 
-.bet1 {
+  #quadrado4 {
     background-color: yellow;
-}
+    height: 200px;
+    width:980px;
+    margin-top: 10%;
+    margin-left: 25%;
+  }
+  #quadrado5 {
+    background-color: yellow;
+    height: 200px;
+    width: 600px;
+    margin-top: 150px; 
+    margin-left: 470px;
+  }
+  #quadrado6 {
+    background-color: yellow;
+    height:200px ;
+    width: 200px;
+    margin-top: 150px; 
+    margin-left: 200px;
+  }
 
-.bet2 {
-    background-color: yellow;
-}
+.sectionY {
+   display: flex;
+ }
 
-.bet3 {
-    background-color: yellow;
-}
+ .sectionZ {
+    display: flex;
+  }
 
-.bet4 {
-    background-color: yellow;
-}
-
-.bet5 {
-    background-color: yellow;
-}
